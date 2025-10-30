@@ -1,0 +1,1 @@
+<?php /* search results reuse archive layout */ include locate_template('archive.php'); 
